@@ -3,3 +3,6 @@
 1. Commit one directly to develop branch.
 2. Do the fix
 3. Do a change in the fix
+4. First batch of changes in the test-feature
+5. Second batch of changes in the test-feature
+6. Third batch of changes in the test-feature
