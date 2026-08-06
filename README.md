@@ -4,3 +4,4 @@
 2. Do the fix
 3. Do a change in the fix
 4. First batch of changes in the test-feature
+5. Second batch of changes in the test-feature
